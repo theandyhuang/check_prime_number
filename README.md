@@ -1,1 +1,1 @@
-"# check_prime_number" 
+#這是一個檢查是否是質數的程式
